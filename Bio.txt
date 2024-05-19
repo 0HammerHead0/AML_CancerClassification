@@ -1,0 +1,130 @@
+A summary of the expected changes in the cell types in both Acute Lymphoblastic Leukemia (ALL) and Acute Myeloid Leukemia (AML):
+
+1. **BAS (Basophil)**:
+   - In ALL: No significant change.
+   - In AML: Increase in some subtypes.
+
+2. **EBO (Erythroblast)**:
+   - In ALL: Decrease due to bone marrow disruption.
+   - In AML: Variable, can decrease due to bone marrow disruption or increase in some subtypes.
+
+3. **EOS (Eosinophil)**:
+   - In ALL: No significant change.
+   - In AML: Increase in some subtypes.
+
+4. **KSC (Smudge cell)**:
+   - In BOTH: Not typically associated with either ALL or AML (more common in CLL).
+
+5. **LYA (Lymphocyte, atypical)**:
+   - In ALL: Increase in atypical lymphoblasts, not mature lymphocytes.
+   - In AML: No significant change.
+
+6. **LYT (Lymphocyte, typical)**:
+   - In ALL: Decrease due to replacement of normal lymphocytes by abnormal lymphoblasts.
+   - In AML: No significant change.
+
+7. **MMZ (Metamyelocyte)**:
+   - In ALL: No significant change.
+   - In AML: Increase in some subtypes.
+
+8. **MOB (Monoblast)**:
+   - In ALL: No significant change.
+   - In AML: Increase in some subtypes.
+
+9. **MON (Monocyte)**:
+   - In ALL: No significant change.
+   - In AML: Increase in some subtypes.
+
+10. **MYB (Myelocyte)**:
+    - In ALL: No significant change.
+    - In AML: Increase in some subtypes.
+
+11. **MYO (Myeloblast)**:
+    - In ALL: No significant change.
+    - In AML: Significant increase (hallmark of AML).
+
+12. **NGB (Neutrophil, band)**:
+    - In ALL: No significant change.
+    - In AML: Increase in some subtypes.
+
+13. **NGS (Neutrophil, segmented)**:
+    - In ALL: No significant change.
+    - In AML: Increase in some subtypes.
+
+14. **PMB (Promyelocyte, bilobed)**:
+    - In ALL: No significant change.
+    - In AML: Increase in some subtypes, such as acute promyelocytic leukemia (APL).
+
+15. **PMO (Promyelocyte)**:
+    - In ALL: No significant change.
+    - In AML: Increase in some subtypes, such as acute promyelocytic leukemia (APL).
+
+In summary, the changes in cell types in both ALL and AML depend on the specific subtype of leukemia and the cells affected. Generally, the cell types associated with the affected lineage (lymphoid in ALL, myeloid in AML) will show abnormal proliferation, while other cell types may decrease due to bone marrow disruption and replacement by abnormal cells.
+
+
+
+---------------------------------------------------------
+
+
+
+1. **BAS (Basophil)**:
+   - Definition: A type of white blood cell that plays a role in the immune system. It releases histamine during allergic reactions and helps to defend against certain parasites.
+   - In relation to ALL: Basophils are not typically associated with ALL. However, an abnormal increase in basophils can be seen in some other types of leukemia, such as chronic myeloid leukemia (CML).
+
+2. **EBO (Erythroblast)**:
+   - Definition: An immature red blood cell precursor found in the bone marrow.
+   - In relation to ALL: Erythroblasts are not typically associated with ALL, which primarily affects lymphoid cells. However, disruption of the bone marrow by leukemia cells can affect the production of erythroblasts and other cell lines.
+
+3. **EOS (Eosinophil)**:
+   - Definition: A type of white blood cell that plays a role in combating parasitic infections and is involved in allergic reactions.
+   - In relation to ALL: Eosinophils are not a primary cell type involved in ALL. However, eosinophilia (increased eosinophils) can occasionally be seen in association with certain leukemias.
+
+4. **KSC (Smudge cell)**:
+   - Definition: Smudge cells are broken lymphocytes seen on a peripheral blood smear. They are also called "basket cells."
+   - In relation to ALL: Smudge cells are more commonly associated with chronic lymphocytic leukemia (CLL) than with ALL.
+
+5. **LYA (Lymphocyte, atypical)**:
+   - Definition: Lymphocytes with abnormal or variant morphology.
+   - In relation to ALL: ALL often involves the proliferation of immature or atypical lymphoblasts, not typically mature lymphocytes. However, atypical lymphocytes can be seen in other conditions and diseases.
+
+6. **LYT (Lymphocyte, typical)**:
+   - Definition: A type of white blood cell that plays a central role in the immune system. They include T cells, B cells, and NK cells.
+   - In relation to ALL: ALL primarily affects immature lymphoid cells (lymphoblasts), not mature lymphocytes.
+
+7. **MMZ (Metamyelocyte)**:
+   - Definition: An intermediate stage in the development of granulocytes, especially neutrophils. It's more mature than a myelocyte but not fully matured.
+   - In relation to ALL: Metamyelocytes are part of the myeloid lineage and are not typically associated with ALL, which affects the lymphoid lineage.
+
+8. **MOB (Monoblast)**:
+   - Definition: An immature form of a monocyte, found in the bone marrow.
+   - In relation to ALL: Monoblasts are not primarily involved in ALL.
+
+9. **MON (Monocyte)**:
+   - Definition: A type of white blood cell that can differentiate into macrophages and dendritic cells and plays a role in the immune system.
+   - In relation to ALL: Monocytes are not a primary cell type involved in ALL.
+
+10. **MYB (Myelocyte)**:
+    - Definition: An immature cell that is part of the granulocyte series, found in the bone marrow.
+    - In relation to ALL: Myelocytes are part of the myeloid lineage and are not typically associated with ALL.
+
+11. **MYO (Myeloblast)**:
+    - Definition: The earliest form of a myeloid lineage cell in the bone marrow.
+    - In relation to ALL: Myeloblasts are associated with acute myeloid leukemia (AML), not ALL.
+
+12. **NGB (Neutrophil, band)**:
+    - Definition: An immature neutrophil. Also known as a band cell or stab cell.
+    - In relation to ALL: Band neutrophils are part of the myeloid lineage and are not typically associated with ALL.
+
+13. **NGS (Neutrophil, segmented)**:
+    - Definition: A mature neutrophil with a segmented nucleus. It's the most common type of white blood cell and plays a role in fighting bacterial infections.
+    - In relation to ALL: Segmented neutrophils are not typically associated with ALL.
+
+14. **PMB (Promyelocyte, bilobed)**:
+    - Definition: An early stage in the development of granulocytes, especially neutrophils, characterized by a bilobed nucleus.
+    - In relation to ALL: Promyelocytes are part of the myeloid lineage and are not typically associated with ALL.
+
+15. **PMO (Promyelocyte)**:
+    - Definition: An early stage in the development of granulocytes, especially neutrophils.
+    - In relation to ALL: Promyelocytes are part of the myeloid lineage and are not typically associated with ALL.
+
+In summary, ALL (Acute Lymphoblastic Leukemia) primarily affects the lymphoid lineage, specifically the immature lymphoblasts. Many of the cell types you've listed are part of the myeloid lineage and are not directly related to ALL. However, any disruption in the bone marrow due to leukemia can have indirect effects on other cell lineages.
